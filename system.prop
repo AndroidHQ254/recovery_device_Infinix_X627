@@ -1,0 +1,5 @@
+ro.product.brand=Infinix
+ro.product.name=H624
+ro.product.device=Infinix-X627STU
+ro.build.product=x627_h624
+ro.treble.enabled=true
